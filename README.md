@@ -128,6 +128,9 @@ ON student_family_details.id = student_academic_info.id
 where academic_score <= 39;
 ```
 
+![](Students_with_academic_scores_less_and_equal_to_39.png)
+
+
 **Top 100 Students by Academic Scores**
 
 ```sql
