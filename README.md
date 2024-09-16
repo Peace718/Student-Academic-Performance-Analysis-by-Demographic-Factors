@@ -29,8 +29,6 @@ The dataset includes information on 4,739 students, with 2,600 identified as fem
 3. **Student Academic Info**: Includes ID, academic score, student tuition, and education level.
 4. **County Info**: Features ID, unemployment rate (unemp), average wage (wage), distance to the region, and average county tuition.
 
-#### **Data Limitations**: The student family details dataset was incomplete, with some students not providing their family information.
-
 ### **Definitions of Column Names**:
 
 -	**Gender**: Factor indicating the student's gender.
